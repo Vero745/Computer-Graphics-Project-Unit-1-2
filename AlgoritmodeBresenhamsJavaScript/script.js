@@ -5,7 +5,7 @@ var imgData = ctx.getImageData(0, 0, canvas.width, canvas.height);
 var data = imgData.data;
 
 
-bline(60, 100, 400, 450);
+bline(66, 104, 401, 454);
 ctx.putImageData(imgData, 0, 0);
 
 //console.log(1)
